@@ -1,0 +1,44 @@
+ADD TO LINE 60 IN NAVBAR
+
+<div class="dropdown-content111">
+                  <a><Link to="/creams">Our Creams
+                  <div class="dropdown-content1">
+                    
+                  </div></Link>
+                  </a>
+              </div>
+              <div class="dropdown-content1111">
+                  <a><Link to="/oils">Our Oils
+                  <div class="dropdown-content1">
+
+                  </div></Link>
+                  </a>
+              </div>
+              <div class="dropdown-content11111">
+                  <a><Link to="/bathsalts">Our Bath Salts
+                  <div class="dropdown-content1">
+                    
+                  </div></Link>
+                  </a>
+              </div>
+              <div class="dropdown-content111111">
+                  <a><Link to="/lipbalms">Our Lip Balms
+                  <div class="dropdown-content1">
+                    
+                  </div></Link>
+                  </a>
+              </div>
+              <div class="dropdown-content1111111">
+                  <a><Link to="/painbalms">Our Pain Balms
+                  <div class="dropdown-content1">
+                    
+                  </div></Link>
+                  </a>
+              </div>
+              <div class="dropdown-content11111111">
+                  <a><Link to="/bodymist">Our Body Mists
+                  <div class="dropdown-content1">
+                    
+                  </div></Link>
+                  </a>
+              </div>

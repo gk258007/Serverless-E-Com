@@ -1,0 +1,84 @@
+{
+    "color": {
+        "Almond": {
+              "fg": "#d4cdc6",
+              "bg": "#efdecd",
+              "font": "black"
+        },
+        "Lavender": {
+            "fg": "#c092de",
+            "bg": "#e4b4f1",
+            "font": "#4a4a4a"
+        },
+        "Sea Breeze":{
+            "fg": "#83c7d7",
+            "bg": "#a8dee7",
+            "font": "#4a4a4a"
+        },
+        "Papaya":{
+            "fg": "#fed09d",
+            "bg": "#fdc182",
+            "font": "#4a4a4a"
+        },
+        "Daisy Dew":{
+            "fg": "#e5dc7f",
+            "bg": "#FFFD89",
+            "font": "#4a4a4a"
+        },
+        "Avocado":{
+            "fg": "#959b4b",
+            "bg": "#b0b27e",
+            "font": "black"
+        },
+        "Banana":{
+            "fg": "#d4bd84",
+            "bg": "#fae1a3",
+            "font": "#4a4a4a"
+        },
+        "Love Dale":{
+            "fg": "#e0c4ca",
+            "bg": "#ece5b0",
+            "font": "black"
+        },
+        "Honey with Oatmeal":{
+            "fg": "#d87e27",
+            "bg": "#d57428",
+            "font": "black"
+        },
+        "Bentonite Clay":{
+            "fg": "#8c6b53",
+            "bg": "#745a42",
+            "font": "white"
+        },
+        "Charcoal  French Pink Clay":{
+            "fg": "#f69e7a",
+            "bg": "#1f1f1e",
+            "font": "white"
+        },
+        "Charcoal with Tea Tree":{
+            "fg": "#375637",
+            "bg": "#1f1f1e",
+            "font": "white"
+        },
+        "Lemongrass":{
+            "fg": "#89b25a",
+            "bg": "#6fa041",
+            "font": "black"
+        },
+        "Neem Licorice with Wild Turmeric":{
+            "fg": "#a5aa37",
+            "bg": "#6fa041",
+            "font": "black"
+        },
+        "Wild Turmeric":{
+            "fg": "#f19f1f",
+            "bg": "#f3ba19",
+            "font": "#4a4a4a"
+        },
+        "Herbal Shikakai":{
+            "fg": "#937b63",
+            "bg": "#c0af86",
+            "font": "black"
+        }
+    }
+}
